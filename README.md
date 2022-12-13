@@ -11,4 +11,7 @@ Para rodar o arquivo test_trab-logica-nebulosa, será necessário possuir o pyth
 Para intalar a bibliotecas ‘scikit-fuzzy’ rode no terminal o comando `pip install -U scikit-fuzzy`, para a biblioteca matplotlib o comando `python -m pip install -U matplotlib`, e por fim para interface gráfica da biblioteca Tkinter o comando `pip install tk`.
 
 
+## GitHub dos Membros
 
+Luca Machado Mendonça:
+Rafaela Peçanha Mathias Fernandaes: https://github.com/Rafaela-Pecanha
