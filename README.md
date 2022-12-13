@@ -7,8 +7,8 @@ O modelo fuzzy foi desenvolvido do zero utilizando a linguagem de programação 
 
 
 ## 2.1 Passo a Passo 
-Para rodar o arquivo test_trab-logica-nebulosa, será necessário possuir o python instalado na sua máquina, caso não tenha faça o donwolad através [deste link](https://www.python.org/downloads/). Depois será necessário criar um ambiente virtual em seu repositório, para isso é só digitar o comando  python -m venv venv no terminal. Após isso, será necessário acessar o ambiente virtual por meio do comando venv\Scripts\activate, com isso intala-se o django pelo comando pip install django.
-Para intalar a bibliotecas ‘scikit-fuzzy’ rode no terminal o comando pip install -U scikit-fuzzy, para a biblioteca matplotlib o comando python -m pip install -U matplotlib, e por fim para interface gráfica da biblioteca Tkinter o comando pip install tk.
+Para rodar o arquivo test_trab-logica-nebulosa, será necessário possuir o python instalado na sua máquina, caso não tenha faça o donwolad através [deste link](https://www.python.org/downloads/). Depois será necessário criar um ambiente virtual em seu repositório, para isso é só digitar o comando  `python -m venv venv` no terminal. Após isso, será necessário acessar o ambiente virtual por meio do comando `venv\Scripts\activate`, com isso intala-se o django pelo comando `pip install django`.
+Para intalar a bibliotecas ‘scikit-fuzzy’ rode no terminal o comando `pip install -U scikit-fuzzy`, para a biblioteca matplotlib o comando `python -m pip install -U matplotlib`, e por fim para interface gráfica da biblioteca Tkinter o comando `pip install tk`.
 
 
 
