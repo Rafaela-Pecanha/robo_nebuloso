@@ -13,5 +13,6 @@ Para intalar a bibliotecas ‘scikit-fuzzy’ rode no terminal o comando `pip in
 
 ## GitHub dos Membros
 
-Luca Machado Mendonça:
+Luca Machado Mendonça:https://github.com/lucammdev
+<br>
 Rafaela Peçanha Mathias Fernandaes: https://github.com/Rafaela-Pecanha
